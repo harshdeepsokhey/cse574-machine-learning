@@ -1,0 +1,19 @@
+---------------
+ Data sources
+---------------
+1. CS ranking score
+http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-science-schools/computer-science-rankings
+
+
+2. Overhead rates
+From each university’s website
+
+
+3. President Base Pay
+http://chronicle.com/factfile/ec-2015/#id=table_public_2014
+(This link may not work if outside campus)
+
+
+4. Tuition
+http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/national-universities
+
